@@ -1,0 +1,12 @@
+C:\Users\SRH\Source\Repos\ShortLink\ShortLink.DataAccessLayer\bin\Debug\netcoreapp3.1\ShortLink.DataAccessLayer.deps.json
+C:\Users\SRH\Source\Repos\ShortLink\ShortLink.DataAccessLayer\bin\Debug\netcoreapp3.1\ShortLink.DataAccessLayer.runtimeconfig.json
+C:\Users\SRH\Source\Repos\ShortLink\ShortLink.DataAccessLayer\bin\Debug\netcoreapp3.1\ShortLink.DataAccessLayer.runtimeconfig.dev.json
+C:\Users\SRH\Source\Repos\ShortLink\ShortLink.DataAccessLayer\bin\Debug\netcoreapp3.1\ShortLink.DataAccessLayer.dll
+C:\Users\SRH\Source\Repos\ShortLink\ShortLink.DataAccessLayer\bin\Debug\netcoreapp3.1\ShortLink.DataAccessLayer.pdb
+C:\Users\SRH\Source\Repos\ShortLink\ShortLink.DataAccessLayer\obj\Debug\netcoreapp3.1\ShortLink.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\SRH\Source\Repos\ShortLink\ShortLink.DataAccessLayer\obj\Debug\netcoreapp3.1\ShortLink.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\SRH\Source\Repos\ShortLink\ShortLink.DataAccessLayer\obj\Debug\netcoreapp3.1\ShortLink.DataAccessLayer.AssemblyInfo.cs
+C:\Users\SRH\Source\Repos\ShortLink\ShortLink.DataAccessLayer\obj\Debug\netcoreapp3.1\ShortLink.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\SRH\Source\Repos\ShortLink\ShortLink.DataAccessLayer\obj\Debug\netcoreapp3.1\ShortLink.DataAccessLayer.dll
+C:\Users\SRH\Source\Repos\ShortLink\ShortLink.DataAccessLayer\obj\Debug\netcoreapp3.1\ShortLink.DataAccessLayer.pdb
+C:\Users\SRH\Source\Repos\ShortLink\ShortLink.DataAccessLayer\obj\Debug\netcoreapp3.1\ShortLink.DataAccessLayer.genruntimeconfig.cache
